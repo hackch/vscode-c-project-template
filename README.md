@@ -5,6 +5,6 @@ A Project Template for C Development
 1. Download [MSYS2](https://www.msys2.org/)
 2. Open `MSYS2 MSYS` and run the following commands:
     1. `pacman -Syu`
-    2. `pacman -S git gcc make`
+    2. `pacman -S git gcc make gdb`
 
 
